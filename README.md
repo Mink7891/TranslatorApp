@@ -30,9 +30,9 @@
    ```
    python main.py
    ```
-
-   Светлая тема:
+## Темы
+  **Светлая тема:**<br>
 ![image](https://github.com/user-attachments/assets/217211fc-efd7-4353-a8d8-0dd9dac85607)
 
-   Тёмная тема:
+  **Тёмная тема:**<br>
    ![image](https://github.com/user-attachments/assets/9a53cc2f-f1ce-4400-a860-7f5a4314bca6)
