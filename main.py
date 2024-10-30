@@ -1,5 +1,3 @@
-
-
 import flet as ft
 from translate import Translator
 
